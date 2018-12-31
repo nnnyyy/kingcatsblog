@@ -80,3 +80,6 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:nnnyyy/nnnyyy.github.io
+
+# Disqus
+disqus_shortname: kingcats
