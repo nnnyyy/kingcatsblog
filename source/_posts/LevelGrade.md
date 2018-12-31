@@ -25,5 +25,3 @@ categories:
 | {% asset_img star12.png 20 20 %}       | 12    | 40000          |
 | {% asset_img star13.png 20 20 %}       | 13    | 60000          |
 | {% asset_img star14.png 20 20 %}       | 14    | 100000          |
-
-> [사이트 후원하기](https://toon.at/donate/636800116400915381)

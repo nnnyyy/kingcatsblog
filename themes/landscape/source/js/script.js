@@ -134,4 +134,9 @@
 
     $container.removeClass('mobile-nav-on');
   });
+
+  // Donate
+  $('.article-donate-link').on('click', function() {
+    window.open('https://toon.at/donate/636800116400915381', '_blank');
+  })
 })(jQuery);

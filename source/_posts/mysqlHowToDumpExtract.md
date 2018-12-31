@@ -28,6 +28,3 @@ mysql 데이터 백업은 mysql 을 설치할 때 bin 폴더에 생기는 mysqld
 `--routines` 를 추가 해주면 된다.
 
 만약 실행 시에 access denied 가 뜬다면 cmd 창을 `관리자 권한`으로 띄워서 다시 해보자.
-
-
-> [사이트 후원하기](https://toon.at/donate/636800116400915381)

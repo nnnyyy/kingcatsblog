@@ -40,5 +40,3 @@ https://[계정아이디].github.io
 참고로 내 CNAME 파일에는 이렇게 적혀 있다.
 
     kingcats.net
-
-> [사이트 후원하기](https://toon.at/donate/636800116400915381)
