@@ -2,12 +2,13 @@
 title: mysql 데이터 백업하기
 date: 2018-12-31 10:10:14
 tags: 
-- 노드
-- Node.js
-- 버전 체크
+- DB
+- Database
+- Mysql
+- mysqldump
 categories: 
-- 웹프로그래밍
-- Node.js
+- Database
+- Mysql
 ---
 
 mysql 데이터 백업은 mysql 을 설치할 때 bin 폴더에 생기는 mysqldump.exe 로 할 수 있다.
